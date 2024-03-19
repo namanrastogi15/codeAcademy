@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/codeAcademy/static/css/main.0b7a63dd.css",
+    "main.js": "/codeAcademy/static/js/main.ee9f5af8.js",
+    "static/media/portfolio03.png": "/codeAcademy/static/media/portfolio03.8dfa398738bd1333b334.png",
+    "static/media/portfolio0.jpg": "/codeAcademy/static/media/portfolio0.fdb4ece113835fec18ac.jpg",
+    "static/media/portfolio02.png": "/codeAcademy/static/media/portfolio02.34dce9251b4c912ee7ea.png",
+    "static/media/portfolio1.jpg": "/codeAcademy/static/media/portfolio1.672970a74b87f1021fb5.jpg",
+    "static/media/portfolio04.png": "/codeAcademy/static/media/portfolio04.e1db2a56c528e3977581.png",
+    "static/media/portfolio3.jpg": "/codeAcademy/static/media/portfolio3.87d76c09455d81aab753.jpg",
+    "static/media/homepage2.png": "/codeAcademy/static/media/homepage2.294b92b7e9c0b1f4e8d3.png",
+    "static/media/homepage1.jpg": "/codeAcademy/static/media/homepage1.4f5ec694b5ceccfe12dc.jpg",
+    "index.html": "/codeAcademy/index.html",
+    "main.0b7a63dd.css.map": "/codeAcademy/static/css/main.0b7a63dd.css.map",
+    "main.ee9f5af8.js.map": "/codeAcademy/static/js/main.ee9f5af8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b7a63dd.css",
+    "static/js/main.ee9f5af8.js"
+  ]
+}
